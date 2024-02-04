@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8b449c07c1f1dd0459044f1f48aae040
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mentimun
+  fontNames:
+  - Mentimun
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b7d91690a55527f4c94657e8591ea2b9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
